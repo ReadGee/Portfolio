@@ -14,7 +14,7 @@ builder.Services.AddDbContext<BookStoreDbContext>(
     options =>
 {
     options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(BookStoreDbContext)));
-})
+});
 
 var app = builder.Build();
 
