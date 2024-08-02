@@ -10,3 +10,15 @@ D:\Project_C#\Portfolio\Portfolio\BookStore.Core\obj\Debug\net8.0\BookStore.Core
 D:\Project_C#\Portfolio\Portfolio\BookStore.Core\obj\Debug\net8.0\refint\BookStore.Core.dll
 D:\Project_C#\Portfolio\Portfolio\BookStore.Core\obj\Debug\net8.0\BookStore.Core.pdb
 D:\Project_C#\Portfolio\Portfolio\BookStore.Core\obj\Debug\net8.0\ref\BookStore.Core.dll
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\bin\Debug\net8.0\BookStore.Core.deps.json
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\bin\Debug\net8.0\BookStore.Core.dll
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\bin\Debug\net8.0\BookStore.Core.pdb
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfoInputs.cache
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfo.cs
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\BookStore.Core.csproj.CoreCompileInputs.cache
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\BookStore.Core.sourcelink.json
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\BookStore.Core.dll
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\refint\BookStore.Core.dll
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\BookStore.Core.pdb
+D:\ProjectC\Portfolio\Portfolio\Backend\BookStore.Core\obj\Debug\net8.0\ref\BookStore.Core.dll

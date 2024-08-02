@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IX5BRDWnUhM=",
+  "dgSpecHash": "uc3w3uBYoe0=",
   "success": true,
-  "projectFilePath": "D:\\Project_C#\\Portfolio\\Portfolio\\BookStore.Core\\BookStore.Core.csproj",
+  "projectFilePath": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.Core\\BookStore.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

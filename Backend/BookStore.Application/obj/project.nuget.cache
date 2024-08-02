@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q43mZEuc5NI=",
+  "dgSpecHash": "czgqumTuEnU=",
   "success": true,
-  "projectFilePath": "D:\\Project_C#\\Portfolio\\Portfolio\\BookStore.Application\\BookStore.Application.csproj",
+  "projectFilePath": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.Application\\BookStore.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ReadGee\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\ReadGee\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

@@ -2323,11 +2323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project_C#\\Portfolio\\Portfolio\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
+      "projectUniqueName": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
       "projectName": "BookStore.DataAccess",
-      "projectPath": "D:\\Project_C#\\Portfolio\\Portfolio\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
+      "projectPath": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ReadGee\\.nuget\\packages\\",
-      "outputPath": "D:\\Project_C#\\Portfolio\\Portfolio\\BookStore.DataAccess\\obj\\",
+      "outputPath": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2349,8 +2349,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Project_C#\\Portfolio\\Portfolio\\BookStore.Core\\BookStore.Core.csproj": {
-              "projectPath": "D:\\Project_C#\\Portfolio\\Portfolio\\BookStore.Core\\BookStore.Core.csproj"
+            "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.Core\\BookStore.Core.csproj": {
+              "projectPath": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.Core\\BookStore.Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ENmFFEHteno=",
+  "dgSpecHash": "Gtyb1amu9uA=",
   "success": true,
-  "projectFilePath": "D:\\Project_C#\\Portfolio\\Portfolio\\BookStore.API\\BookStore.API.csproj",
+  "projectFilePath": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.API\\BookStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ReadGee\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ReadGee\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
