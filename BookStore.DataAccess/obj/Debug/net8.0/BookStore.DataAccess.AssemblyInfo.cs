@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookStore.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+929194b477ecfca88a0f2aa571eddbe1e1f5849b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096ff1428028bf327ea6e914a523fec28ff62494")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookStore.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookStore.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
