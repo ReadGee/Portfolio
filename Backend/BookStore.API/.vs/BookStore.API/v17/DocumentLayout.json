@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{724F69FD-F227-41D0-BDF5-9DF302FCCCA2}|BookStore.API.csproj|d:\\projectc\\portfolio\\portfolio\\backend\\bookstore.api\\contracts\\booksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{724F69FD-F227-41D0-BDF5-9DF302FCCCA2}|BookStore.API.csproj|solutionrelative:contracts\\booksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{724F69FD-F227-41D0-BDF5-9DF302FCCCA2}|BookStore.API.csproj|d:\\projectc\\portfolio\\portfolio\\backend\\bookstore.api\\contracts\\booksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{724F69FD-F227-41D0-BDF5-9DF302FCCCA2}|BookStore.API.csproj|solutionrelative:contracts\\booksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{724F69FD-F227-41D0-BDF5-9DF302FCCCA2}|BookStore.API.csproj|d:\\projectc\\portfolio\\portfolio\\backend\\bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{724F69FD-F227-41D0-BDF5-9DF302FCCCA2}|BookStore.API.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,35 +24,9 @@
               "RelativeDocumentMoniker": "Contracts\\BooksRequest.cs",
               "ToolTip": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.API\\Contracts\\BooksRequest.cs",
               "RelativeToolTip": "Contracts\\BooksRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T14:45:43.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BooksResponse.cs",
-              "DocumentMoniker": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.API\\Contracts\\BooksResponse.cs",
-              "RelativeDocumentMoniker": "Contracts\\BooksResponse.cs",
-              "ToolTip": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.API\\Contracts\\BooksResponse.cs",
-              "RelativeToolTip": "Contracts\\BooksResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:21:00.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "D:\\ProjectC\\Portfolio\\Portfolio\\Backend\\BookStore.API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswDsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T14:15:30.13Z",
               "EditorCaption": ""
             }
           ]
